@@ -1,0 +1,64 @@
+		(1)	(2)
+VARIABLES	LABELS	Zillow median price/sq foot	Zillow median price/sq foot
+			
+jail_pooled_male_p25	probability of male incarceration by age 25		-0.0913
+			(0.0946)
+kfr_pooled_pooled_p25	upward mobility--measured by income at age 25		0.3340***
+			(0.0902)
+D1000_blacknh_P	Black share of tract population	-0.0042***	-0.0040***
+		(0.0006)	(0.0006)
+h2110_medrooms	median number of rooms	0.0175***	0.0143**
+		(0.0064)	(0.0061)
+h2110_medyear	median year built	0.0002	0.0001
+		(0.0007)	(0.0007)
+H2110_1unitsdet_E	single-family detached, percent of units	-0.0019***	-0.0018***
+		(0.0006)	(0.0006)
+H2110_1unitsatt_E	single-family attached, percent of units	-0.0025**	-0.0025**
+		(0.0011)	(0.0010)
+H2110_mobilehome_E	mobile home, percent of units	-0.0014**	-0.0012*
+		(0.0007)	(0.0007)
+H2110_novehicle_E	homes with no parking, percent of units	0.0007	0.0007
+		(0.0019)	(0.0020)
+gas_elect	gas or electric heating, percent of units	-0.0005	-0.0006
+		(0.0004)	(0.0004)
+H2110_withkitchen_E	percent with kitchen, percent of units	0.0064***	0.0063***
+		(0.0015)	(0.0014)
+W1110_meancommute_E	mean commute time	-0.0069***	-0.0069***
+		(0.0012)	(0.0012)
+W1110_carpooled_P	percent who carpool to work	-0.0045***	-0.0044***
+		(0.0009)	(0.0009)
+W1110_pubtrans_P	percent using public transportation	0.0137***	0.0137***
+		(0.0011)	(0.0011)
+pct_owner	percent who own home	-0.0090	-0.0198
+		(0.0492)	(0.0469)
+lnpop	log of population	0.0002	0.0002
+		(0.0084)	(0.0086)
+D3100_kidsunder18_P	families with children under 18, percent of all	0.0004	0.0002
+		(0.0005)	(0.0005)
+D3110_kidsunder18_P	single-mother families with children under 18, percent of all	-0.0097***	-0.0097***
+		(0.0014)	(0.0015)
+D1000_medianage_E	median age	0.0016	0.0012
+		(0.0010)	(0.0011)
+WI_weighted	walkability index	0.0096***	0.0092***
+		(0.0022)	(0.0022)
+MV_est54	Number of professional service businesses	0.0005***	0.0005***
+		(0.0001)	(0.0001)
+MV_est51912	Number of libraries	0.0469***	0.0470***
+		(0.0090)	(0.0088)
+MV_est712	Number of museums and historical sites	0.0264***	0.0274***
+		(0.0030)	(0.0030)
+MV_est722	Number of food and drinking places	0.0011***	0.0011***
+		(0.0002)	(0.0002)
+MV_est447	Number of eating and drinking places	-0.0146***	-0.0145***
+		(0.0009)	(0.0009)
+school_quality	Proficiency rate of 4th-8th grade public school students	0.4351***	0.4173***
+		(0.0340)	(0.0332)
+jail_pooled_male_mean	Percent of men ever incarcerated	-0.3161	
+		(0.3196)	
+Constant	Constant	3.9652***	3.9763***
+		(1.2941)	(1.2694)
+			
+Observations		32,891	32,891
+Adjusted R-squared		0.8361	0.8366
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

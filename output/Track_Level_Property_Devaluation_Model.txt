@@ -1,0 +1,12 @@
+		(1)
+VARIABLES	LABELS	lnvalue
+		
+D1000_blacknh_P	Black share of tract population	-0.0106***
+		(0.0010)
+Constant	Constant	12.4070***
+		(0.0172)
+		
+Observations		39,434
+Adjusted R-squared		0.6168
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

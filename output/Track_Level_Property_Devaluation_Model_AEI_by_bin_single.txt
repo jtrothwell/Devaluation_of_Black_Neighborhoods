@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)
+VARIABLES	LABELS	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot	Zillow median price/sq foot
+											
+D1000_blacknh_P	Black share of tract population	-0.0031***	-0.0037***	-0.0043***	-0.0032***	-0.0027**	-0.0025	-0.0033**	-0.0045***	-0.0068***	-0.0120***
+		(0.0011)	(0.0004)	(0.0007)	(0.0009)	(0.0011)	(0.0019)	(0.0016)	(0.0015)	(0.0012)	(0.0015)
+D3110_kidsunder18_P	single-mother families with children under 18, percent of all	-0.0068***	-0.0164***	-0.0131***	-0.0169***	-0.0184***	-0.0232***	-0.0153***	-0.0213***	-0.0148***	-0.0125***
+		(0.0021)	(0.0021)	(0.0021)	(0.0014)	(0.0025)	(0.0039)	(0.0022)	(0.0042)	(0.0042)	(0.0040)
+Constant	Constant	4.9611***	5.0534***	5.0251***	5.0557***	5.0595***	5.1103***	5.0775***	5.1541***	5.1669***	5.2725***
+		(0.0609)	(0.0327)	(0.0188)	(0.0166)	(0.0156)	(0.0167)	(0.0170)	(0.0156)	(0.0145)	(0.0127)
+											
+Observations		2,658	3,141	3,266	3,424	3,501	3,555	3,578	3,649	3,703	3,767
+Adjusted R-squared		0.6122	0.6773	0.7187	0.7012	0.7038	0.7005	0.7167	0.6882	0.6899	0.7040
+Robust standard errors in parentheses											
+*** p<0.01, ** p<0.05, * p<0.1											
